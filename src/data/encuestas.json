@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "titulo": "Encuesta de Libros",
+        "descripción": "Responda la siguiente encuesta para saber cuáles son los géneros de libros más elegidos según distintas edades.",
+        "preguntas": [
+            {
+                "id": 1,
+                "pregunta": "¿Qué género literario prefiere leer?",
+                "opciones": [
+                    { "id": 1, "texto": "Poesía." },
+                    { "id": 2, "texto": "Romance." },
+                    { "id": 3, "texto": "Fantasía." },
+                    { "id": 4, "texto": "Misterio/Thriller." },
+                    { "id": 5, "texto": "Aventura." }
+                ]
+            },
+            {
+                "id": 2,
+                "pregunta": "¿Cúantos años tiene?",
+                "opciones": [
+                    { "id": 6, "texto": "11 a 15 años." },
+                    { "id": 7, "texto": "16 a 20 años." },
+                    { "id": 8, "texto": "21 a 25 años." },
+                    { "id": 9, "texto": "26 a 30 años." },
+                    { "id": 10, "texto": "31 a 35 años." },
+                    { "id": 11, "texto": "Más de 40." }                
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "titulo": "Encuesta de Servicios | Empresa Clean de Limpieza",
+        "descripción": "Por favor, responda la siguiente encuesta para mejorar la calidad de nuestro servicio.",
+        "preguntas": [
+            {
+                "id": 3,
+                "pregunta": "¿Cómo calificaría nuestro servicio?",
+                "opciones": [
+                    { "id": 12, "texto": "Excelente." },
+                    { "id": 13, "texto": "Muy bueno." },
+                    { "id": 14, "texto": "Bueno." },
+                    { "id": 15, "texto": "Regular." },
+                    { "id": 16, "texto": "Malo." }
+                ]
+            },
+            {
+                "id": 4,
+                "pregunta": "¿Qué podemos mejorar?",
+                "opciones": [
+                    { "id": 17, "texto": "Atención al cliente." },
+                    { "id": 18, "texto": "Disponibilidad horaria." },
+                    { "id": 19, "texto": "Trabajo de más calidad." },
+                    { "id": 20, "texto": "Empleados (Si tuvo algún problema, por favor contáctenos)." },
+                    { "id": 21, "texto": "Calidad de los productos." }
+                ]
+            }
+        ]
+    }
+]
